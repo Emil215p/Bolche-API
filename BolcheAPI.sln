@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35005.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolcheAPI", "BolcheAPI\BolcheAPI.csproj", "{3CFDB8B9-8536-49B5-ADFB-B1F6DB33C151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFDB8B9-8536-49B5-ADFB-B1F6DB33C151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDB8B9-8536-49B5-ADFB-B1F6DB33C151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDB8B9-8536-49B5-ADFB-B1F6DB33C151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDB8B9-8536-49B5-ADFB-B1F6DB33C151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B942931-FB3E-41A6-A53E-210A1D6A5C25}
+	EndGlobalSection
+EndGlobal
