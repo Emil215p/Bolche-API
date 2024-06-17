@@ -23,3 +23,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+//Scaffold-DbContext 'Name=Bolcher' Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models
