@@ -9,9 +9,9 @@ public partial class Bolcher
 
     public string Name { get; set; } = null!;
 
-    public int TypeId { get; set; }
+    public int Weight { get; set; }
 
-    public virtual ICollection<Indkøbsvogn> Indkøbsvogns { get; set; } = new List<Indkøbsvogn>();
+    public int Price { get; set; }
 
-    public virtual BolcheType Type { get; set; } = null!;
+    public virtual ICollection<Cart> Carts { get; set; } = new List<Cart>();
 }
